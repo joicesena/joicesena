@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there! 👋 Welcome to my GitHub profile!
 
-<!--
-**joicesena/joicesena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Whoami 👩‍💻
+I'm Joice, developer and big front-end enthusiast from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>Belo Horizonte, Brazil</b>.
 
-Here are some ideas to get you started:
+[![Joice Sena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joicesena&hide=issues,contribs&show_icons=true&theme=dark)](https://github.com/joicesena)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### To connect with me 🚀 
+
+<a href="https://www.linkedin.com/in/joicesena/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+
+### Fun fact 🌈
+I love listen to music and going to concerts! You can see my <b>Spotify profile</b> clicking on the card below.
+
+[![Joice Sena's Spotify](https://spotify-github-profile.vercel.app/api/view?uid=poxajoice&cover_image=true)](https://open.spotify.com/user/poxajoice)
