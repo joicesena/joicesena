@@ -7,9 +7,4 @@ I'm Joice, developer and big front-end enthusiast from <img src="https://image.f
 
 ### To connect with me 🚀 
 
-<a href="https://www.linkedin.com/in/joicesena/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-
-### Fun fact 🌈
-I love listen to music and going to concerts! You can see my <b>Spotify profile</b> clicking on the card below.
-
-[![Joice Sena's Spotify](https://spotify-github-profile.vercel.app/api/view?uid=poxajoice&cover_image=true)](https://open.spotify.com/user/poxajoice)
+<a href="https://www.linkedin.com/in/joicesena/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
